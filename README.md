@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-
 - 🌱 I’m currently focusing on emerging technologies
-- 👯 I’m looking to collaborate on AI/ML Projects
-- 💬 Ask me about Web Development and Photography
+- 💬 Ask me about Full Stack Development and Photography
 - 📫 How to reach me: https://www.linkedin.com/in/suchit-negi-5246a0170
 
