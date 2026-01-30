@@ -3,3 +3,5 @@ Hi there 👋
 - 🌱 Currently exploring emerging technologies and AI-powered solutions  
 - 💬 Let’s talk about JavaScript, React, Node.js, and also 📸 Photography  
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/suchit-negi-5246a0170)
+
+Note: Most of my contributions are in private work repositories. This profile contains my learning notes, experiments, and vibe coding exloration.”
