@@ -2,6 +2,6 @@ Hi there 👋
 - 🚀 I’m a Full Stack Developer passionate about building scalable web applications  
 - 🌱 Currently exploring emerging technologies and AI-powered solutions  
 - 💬 Let’s talk about JavaScript, Python, React, Node.js, FastAPI and also 📸 Photography  
-- 📫 Connect with me: https://code-curated-glow.lovable.app/
+- 📫 Connect with me: https://suchit-portfolio.lovable.app
 
 Note: Most of my contributions are in private work repositories. This profile contains my learning notes, experiments, and vibe coding exloration.
